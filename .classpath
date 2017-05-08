@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib"/>
+	<classpathentry kind="lib" path="C:/Users/tenwapc54/Desktop/Netty框架/netty-all-5.0.0.Alpha2.jar"/>
+	<classpathentry kind="lib" path="lib/netty-all-5.0.0.Alpha2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tenwapc54/Desktop/Netty框架/jboss-marshalling-1.3.0.CR9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tenwapc54/Desktop/Netty框架/jboss-marshalling-serial-1.3.0.CR9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
